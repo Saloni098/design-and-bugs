@@ -1,4 +1,4 @@
-<h3>c'est la Dwvicy - this is dwvicy</h3>
-(my UX portfolio, WIP) 🚧 
+<h3>Design and bugs - hi, I'm saloni👀</h3>
+(hehe):P 
 
-couldn't figure out webflow for my ux portfolio so coded it instead.
+Let's see how this goes. Yay.
