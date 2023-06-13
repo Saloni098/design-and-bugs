@@ -35,14 +35,14 @@ export default function CaseStudy() {
       <div className='case-study-grid'>
         <div className='cs1'>
           <a href='https://www.canva.com/design/DAEn0OKLsRI/XQ9WRrwqp-hYwfl0rwSYGA/view?utm_content=DAEn0OKLsRI&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent' target="_blank">
-            <Image className='cs1-img' src='/images/frontrow.png' width={480} height={270}/></a>
+            <Image className='cs1-img' src='/images/vitals app.jpg' width={480} height={270}/></a>
         </div>
         <div className='cs1'>
-          <a href='https://vgre.notion.site/Port-Finance-9e147c64c62f4b498a137aaa347f75cc' target='_blank'><Image className='cs1-img' src='/images/Port.png' width={480} height={270}/></a></div>
-          <div className='cs1'><a href='https://bit.ly/100UX-notion' target='_blank'><Image className='cs1-img' src='/images/100DaysOfUX.png' width={480} height={270}/></a></div>
-          <div className='cs1'><a href='https://www.figma.com/proto/F2ZqsAhUXHPcHF2VdwTk9q/Scaler-Community?node-id=1%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4' target='_blank'><Image className='cs1-img' src='/images/discord.png' width={480} height={270}/></a></div>
-          <div className='cs1'><a href='https://skillperitia.in'><Image className='cs1-img' src='/images/skillperitia.png' width={480} height={270}/></a></div>
-          <div className='cs1'><a href="https://www.figma.com/file/TJLfW9TTRIFYs82GrSC7CB/Moo-Twitter?node-id=0%3A1" target='_blank'><Image className='cs1-img' src='/images/Moo.png' width={480} height={270}/></a></div>
+          <a href='https://vgre.notion.site/Port-Finance-9e147c64c62f4b498a137aaa347f75cc' target='_blank'><Image className='cs1-img' src='/images/meesho app redesign.jpg' width={480} height={270}/></a></div>
+          <div className='cs1'><a href='https://bit.ly/100UX-notion' target='_blank'><Image className='cs1-img' src='/images/almost whatsapp.jpg' width={480} height={270}/></a></div>
+//           <div className='cs1'><a href='https://www.figma.com/proto/F2ZqsAhUXHPcHF2VdwTk9q/Scaler-Community?node-id=1%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4' target='_blank'><Image className='cs1-img' src='/images/discord.png' width={480} height={270}/></a></div>
+//           <div className='cs1'><a href='https://skillperitia.in'><Image className='cs1-img' src='/images/skillperitia.png' width={480} height={270}/></a></div>
+//           <div className='cs1'><a href="https://www.figma.com/file/TJLfW9TTRIFYs82GrSC7CB/Moo-Twitter?node-id=0%3A1" target='_blank'><Image className='cs1-img' src='/images/Moo.png' width={480} height={270}/></a></div>
 
 
       </div>
